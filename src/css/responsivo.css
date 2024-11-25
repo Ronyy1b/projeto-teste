@@ -1,0 +1,58 @@
+@media(max-width: 750px){
+
+  
+
+    #lapis, #brasão{
+        max-width: 40px;
+    }
+    #logo{
+        height: 57px;
+        width: 297px;
+    }
+    .menu-inicial ul{
+        padding: 0 15%;
+    }
+    .container-inf{
+        flex-direction: column;
+        margin-top: 25px;
+        margin-inline: 2vw;
+        gap: 30px;
+        margin-bottom: 40px;
+    }
+    .conj-descr{
+        width: auto;
+        height: 413px;
+        padding-top: 20px;
+    }
+    .img-inicial img{
+        width: 290px;
+        height: 269px;
+    }
+    .legenda-foto{
+        font-size: 13px;
+        max-height: 50px;
+        width: 280px;
+    }
+    .conj-sec-local{
+        gap: 30px;
+    }
+    .secretario{
+        width: 345px;
+    }
+
+    .img-sec img{
+        width: 90px;
+        height: auto;
+    }
+    .img-local img{
+        width: 290px;
+    }
+
+
+
+
+
+
+
+
+}
