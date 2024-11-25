@@ -32,12 +32,13 @@
         font-size: 13px;
         max-height: 50px;
         width: 280px;
+        margin-top: 10px;
     }
     .conj-sec-local{
         gap: 30px;
     }
     .secretario{
-        width: 345px;
+        width: 350px;
     }
 
     .img-sec img{
