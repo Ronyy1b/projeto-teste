@@ -1,7 +1,5 @@
 @media(max-width: 750px){
-
-  
-
+ 
     #lapis, #brasão{
         max-width: 40px;
     }
@@ -34,6 +32,10 @@
         width: 280px;
         margin-top: 10px;
     }
+    .legenda-foto.lroxo{
+        max-height: 65px;
+    }
+  
     .conj-sec-local{
         gap: 40px;
     }
@@ -48,12 +50,5 @@
     .img-local img{
         width: 290px;
     }
-
-
-
-
-
-
-
 
 }
