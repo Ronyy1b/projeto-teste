@@ -16,7 +16,7 @@
         flex-direction: column;
         margin-top: 25px;
         margin-inline: 2vw;
-        gap: 30px;
+        gap: 40px;
         margin-bottom: 40px;
     }
     .conj-descr{
@@ -35,7 +35,7 @@
         margin-top: 10px;
     }
     .conj-sec-local{
-        gap: 30px;
+        gap: 50px;
     }
     .secretario{
         width: 350px;
