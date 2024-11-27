@@ -51,7 +51,7 @@ li:hover {
 .conj-descr {
     background-color: #D7AA2C;
     height: 558px;
-    padding: 0 20px 0 20px;
+    padding: 0 30px 0 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -124,7 +124,7 @@ li:hover {
     align-items: center;
     border-radius: 20px;
     color: white;
-    padding-top: 30px;
+    padding-top: 35px;
 }
 
 .img-local img {
